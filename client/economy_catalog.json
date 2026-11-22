@@ -1,0 +1,8292 @@
+{
+ "metadata": [
+  {
+   "source": "CardPrm.BIN",
+   "decoded_sha256": "08a7007f66c1d87caa412f2d023b9a9d8d19a2e5a80b8f3e3265aa52b23f2a5b",
+   "record_stride": 12
+  },
+  {
+   "source": "CardPri.BIN",
+   "decoded_sha256": "520c2e8e8eeb3298381389235cf3f4a65b0a1f8065b76048ed604c3844f535a2",
+   "record_stride": 4
+  },
+  {
+   "source": "PackPrm.BIN",
+   "decoded_sha256": "ab455ed4b78969e01309af37f987e98787e501614de434e978b83f4721679ca0",
+   "record_stride": 52
+  }
+ ],
+ "cards": [
+  {
+   "id": 0,
+   "name": "Goblin",
+   "name_reference": 111,
+   "attack": 6,
+   "type": 0,
+   "physical_defense": 7,
+   "magical_defense": 5,
+   "base_card_points": 2,
+   "price_tier": 1,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 1,
+   "name": "Fang",
+   "name_reference": 79,
+   "attack": 5,
+   "type": 0,
+   "physical_defense": 6,
+   "magical_defense": 5,
+   "base_card_points": 2,
+   "price_tier": 1,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 2,
+   "name": "Skeleton",
+   "name_reference": 143,
+   "attack": 6,
+   "type": 0,
+   "physical_defense": 6,
+   "magical_defense": 5,
+   "base_card_points": 2,
+   "price_tier": 1,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 3,
+   "name": "Flan",
+   "name_reference": 79,
+   "attack": 6,
+   "type": 1,
+   "physical_defense": 5,
+   "magical_defense": 7,
+   "base_card_points": 2,
+   "price_tier": 1,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 4,
+   "name": "Zaghnol",
+   "name_reference": 127,
+   "attack": 7,
+   "type": 0,
+   "physical_defense": 5,
+   "magical_defense": 5,
+   "base_card_points": 2,
+   "price_tier": 1,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 5,
+   "name": "Lizard Man",
+   "name_reference": 175,
+   "attack": 8,
+   "type": 0,
+   "physical_defense": 6,
+   "magical_defense": 5,
+   "base_card_points": 2,
+   "price_tier": 1,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 6,
+   "name": "Zombie",
+   "name_reference": 111,
+   "attack": 9,
+   "type": 1,
+   "physical_defense": 7,
+   "magical_defense": 6,
+   "base_card_points": 2,
+   "price_tier": 1,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 7,
+   "name": "Bomb",
+   "name_reference": 79,
+   "attack": 8,
+   "type": 1,
+   "physical_defense": 5,
+   "magical_defense": 8,
+   "base_card_points": 2,
+   "price_tier": 1,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 8,
+   "name": "Ironite",
+   "name_reference": 127,
+   "attack": 9,
+   "type": 0,
+   "physical_defense": 9,
+   "magical_defense": 5,
+   "base_card_points": 2,
+   "price_tier": 1,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 9,
+   "name": "Sahagin",
+   "name_reference": 127,
+   "attack": 10,
+   "type": 0,
+   "physical_defense": 7,
+   "magical_defense": 5,
+   "base_card_points": 2,
+   "price_tier": 1,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 10,
+   "name": "Yeti",
+   "name_reference": 79,
+   "attack": 8,
+   "type": 1,
+   "physical_defense": 5,
+   "magical_defense": 10,
+   "base_card_points": 2,
+   "price_tier": 1,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 11,
+   "name": "Mimic",
+   "name_reference": 95,
+   "attack": 9,
+   "type": 1,
+   "physical_defense": 8,
+   "magical_defense": 14,
+   "base_card_points": 3,
+   "price_tier": 2,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 12,
+   "name": "Wyerd",
+   "name_reference": 95,
+   "attack": 12,
+   "type": 1,
+   "physical_defense": 5,
+   "magical_defense": 13,
+   "base_card_points": 3,
+   "price_tier": 2,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 13,
+   "name": "Mandragora",
+   "name_reference": 175,
+   "attack": 13,
+   "type": 1,
+   "physical_defense": 6,
+   "magical_defense": 7,
+   "base_card_points": 2,
+   "price_tier": 2,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 14,
+   "name": "Crawler",
+   "name_reference": 127,
+   "attack": 14,
+   "type": 0,
+   "physical_defense": 14,
+   "magical_defense": 8,
+   "base_card_points": 3,
+   "price_tier": 2,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 15,
+   "name": "Sand Scorpion",
+   "name_reference": 223,
+   "attack": 14,
+   "type": 0,
+   "physical_defense": 10,
+   "magical_defense": 12,
+   "base_card_points": 3,
+   "price_tier": 2,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 16,
+   "name": "Nymph",
+   "name_reference": 95,
+   "attack": 15,
+   "type": 1,
+   "physical_defense": 11,
+   "magical_defense": 15,
+   "base_card_points": 4,
+   "price_tier": 2,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 17,
+   "name": "Sand Golem",
+   "name_reference": 175,
+   "attack": 17,
+   "type": 0,
+   "physical_defense": 15,
+   "magical_defense": 16,
+   "base_card_points": 4,
+   "price_tier": 2,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 18,
+   "name": "Zu",
+   "name_reference": 47,
+   "attack": 13,
+   "type": 0,
+   "physical_defense": 10,
+   "magical_defense": 5,
+   "base_card_points": 3,
+   "price_tier": 2,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 19,
+   "name": "Dragonfly",
+   "name_reference": 159,
+   "attack": 15,
+   "type": 0,
+   "physical_defense": 17,
+   "magical_defense": 7,
+   "base_card_points": 4,
+   "price_tier": 2,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 20,
+   "name": "Carrion Worm",
+   "name_reference": 207,
+   "attack": 18,
+   "type": 1,
+   "physical_defense": 11,
+   "magical_defense": 10,
+   "base_card_points": 4,
+   "price_tier": 2,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 21,
+   "name": "Cerberus",
+   "name_reference": 143,
+   "attack": 32,
+   "type": 0,
+   "physical_defense": 18,
+   "magical_defense": 16,
+   "base_card_points": 5,
+   "price_tier": 3,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 22,
+   "name": "Antlion",
+   "name_reference": 127,
+   "attack": 25,
+   "type": 0,
+   "physical_defense": 19,
+   "magical_defense": 11,
+   "base_card_points": 5,
+   "price_tier": 3,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 23,
+   "name": "Cactuar",
+   "name_reference": 127,
+   "attack": 110,
+   "type": 2,
+   "physical_defense": 50,
+   "magical_defense": 50,
+   "base_card_points": 24,
+   "price_tier": 11,
+   "category_6": 8,
+   "category_7": 1
+  },
+  {
+   "id": 24,
+   "name": "Gimme Cat",
+   "name_reference": 159,
+   "attack": 21,
+   "type": 1,
+   "physical_defense": 13,
+   "magical_defense": 11,
+   "base_card_points": 4,
+   "price_tier": 2,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 25,
+   "name": "Ragtime Mouse",
+   "name_reference": 223,
+   "attack": 25,
+   "type": 1,
+   "physical_defense": 54,
+   "magical_defense": 67,
+   "base_card_points": 13,
+   "price_tier": 6,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 26,
+   "name": "Hedgehog Pie",
+   "name_reference": 207,
+   "attack": 23,
+   "type": 1,
+   "physical_defense": 9,
+   "magical_defense": 16,
+   "base_card_points": 4,
+   "price_tier": 2,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 27,
+   "name": "Ralvuimago",
+   "name_reference": 175,
+   "attack": 24,
+   "type": 0,
+   "physical_defense": 27,
+   "magical_defense": 5,
+   "base_card_points": 5,
+   "price_tier": 3,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 28,
+   "name": "Ochu",
+   "name_reference": 79,
+   "attack": 25,
+   "type": 0,
+   "physical_defense": 14,
+   "magical_defense": 7,
+   "base_card_points": 4,
+   "price_tier": 2,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 29,
+   "name": "Troll",
+   "name_reference": 95,
+   "attack": 25,
+   "type": 0,
+   "physical_defense": 24,
+   "magical_defense": 25,
+   "base_card_points": 7,
+   "price_tier": 3,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 30,
+   "name": "Blazer Beetle",
+   "name_reference": 223,
+   "attack": 26,
+   "type": 0,
+   "physical_defense": 36,
+   "magical_defense": 7,
+   "base_card_points": 6,
+   "price_tier": 3,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 31,
+   "name": "Abomination",
+   "name_reference": 191,
+   "attack": 27,
+   "type": 1,
+   "physical_defense": 23,
+   "magical_defense": 23,
+   "base_card_points": 7,
+   "price_tier": 3,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 32,
+   "name": "Zemzelett",
+   "name_reference": 159,
+   "attack": 28,
+   "type": 1,
+   "physical_defense": 13,
+   "magical_defense": 38,
+   "base_card_points": 7,
+   "price_tier": 4,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 33,
+   "name": "Stroper",
+   "name_reference": 127,
+   "attack": 29,
+   "type": 0,
+   "physical_defense": 25,
+   "magical_defense": 18,
+   "base_card_points": 7,
+   "price_tier": 3,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 34,
+   "name": "Tantarian",
+   "name_reference": 159,
+   "attack": 35,
+   "type": 1,
+   "physical_defense": 17,
+   "magical_defense": 15,
+   "base_card_points": 6,
+   "price_tier": 3,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 35,
+   "name": "Grand Dragon",
+   "name_reference": 207,
+   "attack": 45,
+   "type": 0,
+   "physical_defense": 25,
+   "magical_defense": 28,
+   "base_card_points": 9,
+   "price_tier": 4,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 36,
+   "name": "Feather Circle",
+   "name_reference": 239,
+   "attack": 31,
+   "type": 1,
+   "physical_defense": 18,
+   "magical_defense": 16,
+   "base_card_points": 6,
+   "price_tier": 3,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 37,
+   "name": "Hecteyes",
+   "name_reference": 143,
+   "attack": 32,
+   "type": 1,
+   "physical_defense": 5,
+   "magical_defense": 56,
+   "base_card_points": 8,
+   "price_tier": 4,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 38,
+   "name": "Ogre",
+   "name_reference": 79,
+   "attack": 32,
+   "type": 0,
+   "physical_defense": 31,
+   "magical_defense": 11,
+   "base_card_points": 7,
+   "price_tier": 3,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 39,
+   "name": "Armstrong",
+   "name_reference": 159,
+   "attack": 45,
+   "type": 1,
+   "physical_defense": 14,
+   "magical_defense": 29,
+   "base_card_points": 8,
+   "price_tier": 4,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 40,
+   "name": "Ash",
+   "name_reference": 63,
+   "attack": 56,
+   "type": 1,
+   "physical_defense": 20,
+   "magical_defense": 66,
+   "base_card_points": 12,
+   "price_tier": 6,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 41,
+   "name": "Wraith",
+   "name_reference": 111,
+   "attack": 35,
+   "type": 1,
+   "physical_defense": 5,
+   "magical_defense": 31,
+   "base_card_points": 6,
+   "price_tier": 3,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 42,
+   "name": "Gargoyle",
+   "name_reference": 143,
+   "attack": 43,
+   "type": 1,
+   "physical_defense": 20,
+   "magical_defense": 18,
+   "base_card_points": 7,
+   "price_tier": 4,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 43,
+   "name": "Vepar",
+   "name_reference": 95,
+   "attack": 36,
+   "type": 1,
+   "physical_defense": 20,
+   "magical_defense": 19,
+   "base_card_points": 7,
+   "price_tier": 3,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 44,
+   "name": "Grimlock",
+   "name_reference": 143,
+   "attack": 33,
+   "type": 1,
+   "physical_defense": 14,
+   "magical_defense": 21,
+   "base_card_points": 6,
+   "price_tier": 3,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 45,
+   "name": "Tonberry",
+   "name_reference": 143,
+   "attack": 65,
+   "type": 0,
+   "physical_defense": 11,
+   "magical_defense": 10,
+   "base_card_points": 8,
+   "price_tier": 4,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 46,
+   "name": "Ahriman",
+   "name_reference": 127,
+   "attack": 35,
+   "type": 1,
+   "physical_defense": 22,
+   "magical_defense": 32,
+   "base_card_points": 8,
+   "price_tier": 4,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 47,
+   "name": "Garuda",
+   "name_reference": 111,
+   "attack": 38,
+   "type": 1,
+   "physical_defense": 28,
+   "magical_defense": 11,
+   "base_card_points": 7,
+   "price_tier": 3,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 48,
+   "name": "Malboro",
+   "name_reference": 127,
+   "attack": 39,
+   "type": 1,
+   "physical_defense": 22,
+   "magical_defense": 39,
+   "base_card_points": 9,
+   "price_tier": 5,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 49,
+   "name": "Mover",
+   "name_reference": 95,
+   "attack": 54,
+   "type": 1,
+   "physical_defense": 43,
+   "magical_defense": 13,
+   "base_card_points": 10,
+   "price_tier": 5,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 50,
+   "name": "Abaddon",
+   "name_reference": 127,
+   "attack": 49,
+   "type": 1,
+   "physical_defense": 41,
+   "magical_defense": 18,
+   "base_card_points": 10,
+   "price_tier": 5,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 51,
+   "name": "Behemoth",
+   "name_reference": 143,
+   "attack": 74,
+   "type": 0,
+   "physical_defense": 28,
+   "magical_defense": 41,
+   "base_card_points": 13,
+   "price_tier": 6,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 52,
+   "name": "Iron Giant",
+   "name_reference": 175,
+   "attack": 77,
+   "type": 0,
+   "physical_defense": 43,
+   "magical_defense": 26,
+   "base_card_points": 13,
+   "price_tier": 6,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 53,
+   "name": "Nova Dragon",
+   "name_reference": 191,
+   "attack": 92,
+   "type": 0,
+   "physical_defense": 49,
+   "magical_defense": 76,
+   "base_card_points": 20,
+   "price_tier": 9,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 54,
+   "name": "Ozma",
+   "name_reference": 79,
+   "attack": 110,
+   "type": 3,
+   "physical_defense": 100,
+   "magical_defense": 110,
+   "base_card_points": 39,
+   "price_tier": 22,
+   "category_6": 17,
+   "category_7": 1
+  },
+  {
+   "id": 55,
+   "name": "Hades",
+   "name_reference": 95,
+   "attack": 100,
+   "type": 1,
+   "physical_defense": 55,
+   "magical_defense": 68,
+   "base_card_points": 20,
+   "price_tier": 9,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 56,
+   "name": "Fratley",
+   "name_reference": 127,
+   "attack": 105,
+   "type": 0,
+   "physical_defense": 45,
+   "magical_defense": 25,
+   "base_card_points": 16,
+   "price_tier": 7,
+   "category_6": 2,
+   "category_7": 7
+  },
+  {
+   "id": 57,
+   "name": "Garland",
+   "name_reference": 127,
+   "attack": 65,
+   "type": 1,
+   "physical_defense": 35,
+   "magical_defense": 45,
+   "base_card_points": 13,
+   "price_tier": 6,
+   "category_6": 2,
+   "category_7": 7
+  },
+  {
+   "id": 58,
+   "name": "Titan",
+   "name_reference": 95,
+   "attack": 56,
+   "type": 1,
+   "physical_defense": 56,
+   "magical_defense": 45,
+   "base_card_points": 14,
+   "price_tier": 7,
+   "category_6": 2,
+   "category_7": 2
+  },
+  {
+   "id": 59,
+   "name": "Shiva",
+   "name_reference": 95,
+   "attack": 45,
+   "type": 1,
+   "physical_defense": 45,
+   "magical_defense": 56,
+   "base_card_points": 13,
+   "price_tier": 6,
+   "category_6": 2,
+   "category_7": 2
+  },
+  {
+   "id": 60,
+   "name": "Ifrit",
+   "name_reference": 95,
+   "attack": 67,
+   "type": 1,
+   "physical_defense": 59,
+   "magical_defense": 32,
+   "base_card_points": 14,
+   "price_tier": 7,
+   "category_6": 2,
+   "category_7": 2
+  },
+  {
+   "id": 61,
+   "name": "Ramuh",
+   "name_reference": 95,
+   "attack": 34,
+   "type": 1,
+   "physical_defense": 32,
+   "magical_defense": 40,
+   "base_card_points": 10,
+   "price_tier": 5,
+   "category_6": 2,
+   "category_7": 2
+  },
+  {
+   "id": 62,
+   "name": "Atomos",
+   "name_reference": 111,
+   "attack": 56,
+   "type": 1,
+   "physical_defense": 39,
+   "magical_defense": 45,
+   "base_card_points": 13,
+   "price_tier": 6,
+   "category_6": 2,
+   "category_7": 2
+  },
+  {
+   "id": 63,
+   "name": "Odin",
+   "name_reference": 79,
+   "attack": 80,
+   "type": 1,
+   "physical_defense": 53,
+   "magical_defense": 28,
+   "base_card_points": 15,
+   "price_tier": 7,
+   "category_6": 2,
+   "category_7": 2
+  },
+  {
+   "id": 64,
+   "name": "Leviathan",
+   "name_reference": 159,
+   "attack": 56,
+   "type": 1,
+   "physical_defense": 39,
+   "magical_defense": 46,
+   "base_card_points": 13,
+   "price_tier": 6,
+   "category_6": 2,
+   "category_7": 2
+  },
+  {
+   "id": 65,
+   "name": "Bahamut",
+   "name_reference": 127,
+   "attack": 78,
+   "type": 1,
+   "physical_defense": 57,
+   "magical_defense": 32,
+   "base_card_points": 15,
+   "price_tier": 7,
+   "category_6": 2,
+   "category_7": 2
+  },
+  {
+   "id": 66,
+   "name": "Ark",
+   "name_reference": 63,
+   "attack": 110,
+   "type": 1,
+   "physical_defense": 50,
+   "magical_defense": 100,
+   "base_card_points": 24,
+   "price_tier": 11,
+   "category_6": 11,
+   "category_7": 2
+  },
+  {
+   "id": 67,
+   "name": "Fenrir",
+   "name_reference": 111,
+   "attack": 54,
+   "type": 1,
+   "physical_defense": 32,
+   "magical_defense": 26,
+   "base_card_points": 10,
+   "price_tier": 5,
+   "category_6": 2,
+   "category_7": 2
+  },
+  {
+   "id": 68,
+   "name": "Madeen",
+   "name_reference": 111,
+   "attack": 63,
+   "type": 1,
+   "physical_defense": 32,
+   "magical_defense": 46,
+   "base_card_points": 13,
+   "price_tier": 6,
+   "category_6": 2,
+   "category_7": 2
+  },
+  {
+   "id": 69,
+   "name": "Butterfly Sword",
+   "name_reference": 255,
+   "attack": 43,
+   "type": 0,
+   "physical_defense": 15,
+   "magical_defense": 20,
+   "base_card_points": 7,
+   "price_tier": 3,
+   "category_6": 3,
+   "category_7": 3
+  },
+  {
+   "id": 70,
+   "name": "Excalibur II",
+   "name_reference": 207,
+   "attack": 100,
+   "type": 2,
+   "physical_defense": 65,
+   "magical_defense": 40,
+   "base_card_points": 24,
+   "price_tier": 11,
+   "category_6": 23,
+   "category_7": 3
+  },
+  {
+   "id": 71,
+   "name": "Ultima Weapon",
+   "name_reference": 223,
+   "attack": 100,
+   "type": 0,
+   "physical_defense": 60,
+   "magical_defense": 40,
+   "base_card_points": 18,
+   "price_tier": 8,
+   "category_6": 9,
+   "category_7": 3
+  },
+  {
+   "id": 72,
+   "name": "Masamune",
+   "name_reference": 143,
+   "attack": 75,
+   "type": 0,
+   "physical_defense": 24,
+   "magical_defense": 23,
+   "base_card_points": 11,
+   "price_tier": 5,
+   "category_6": 3,
+   "category_7": 3
+  },
+  {
+   "id": 73,
+   "name": "Ruby",
+   "name_reference": 79,
+   "attack": 39,
+   "type": 1,
+   "physical_defense": 39,
+   "magical_defense": 65,
+   "base_card_points": 13,
+   "price_tier": 6,
+   "category_6": 2,
+   "category_7": 7
+  },
+  {
+   "id": 74,
+   "name": "Marcus",
+   "name_reference": 111,
+   "attack": 66,
+   "type": 0,
+   "physical_defense": 54,
+   "magical_defense": 12,
+   "base_card_points": 12,
+   "price_tier": 6,
+   "category_6": 3,
+   "category_7": 7
+  },
+  {
+   "id": 75,
+   "name": "Cinna",
+   "name_reference": 95,
+   "attack": 54,
+   "type": 0,
+   "physical_defense": 32,
+   "magical_defense": 15,
+   "base_card_points": 9,
+   "price_tier": 4,
+   "category_6": 3,
+   "category_7": 7
+  },
+  {
+   "id": 76,
+   "name": "Tiger Racket",
+   "name_reference": 207,
+   "attack": 40,
+   "type": 1,
+   "physical_defense": 15,
+   "magical_defense": 20,
+   "base_card_points": 7,
+   "price_tier": 3,
+   "category_6": 3,
+   "category_7": 3
+  },
+  {
+   "id": 77,
+   "name": "Save the Queen",
+   "name_reference": 239,
+   "attack": 75,
+   "type": 0,
+   "physical_defense": 40,
+   "magical_defense": 40,
+   "base_card_points": 14,
+   "price_tier": 7,
+   "category_6": 7,
+   "category_7": 3
+  },
+  {
+   "id": 78,
+   "name": "Dagger",
+   "name_reference": 111,
+   "attack": 25,
+   "type": 0,
+   "physical_defense": 10,
+   "magical_defense": 7,
+   "base_card_points": 4,
+   "price_tier": 2,
+   "category_6": 3,
+   "category_7": 3
+  },
+  {
+   "id": 79,
+   "name": "Mythril Sword",
+   "name_reference": 223,
+   "attack": 35,
+   "type": 0,
+   "physical_defense": 14,
+   "magical_defense": 10,
+   "base_card_points": 5,
+   "price_tier": 3,
+   "category_6": 3,
+   "category_7": 3
+  },
+  {
+   "id": 80,
+   "name": "Blue Narciss",
+   "name_reference": 207,
+   "attack": 65,
+   "type": 0,
+   "physical_defense": 32,
+   "magical_defense": 26,
+   "base_card_points": 11,
+   "price_tier": 5,
+   "category_6": 12,
+   "category_7": 4
+  },
+  {
+   "id": 81,
+   "name": "Hilda Garde 3",
+   "name_reference": 223,
+   "attack": 70,
+   "type": 0,
+   "physical_defense": 100,
+   "magical_defense": 100,
+   "base_card_points": 25,
+   "price_tier": 11,
+   "category_6": 27,
+   "category_7": 4
+  },
+  {
+   "id": 82,
+   "name": "Invincible",
+   "name_reference": 175,
+   "attack": 72,
+   "type": 1,
+   "physical_defense": 57,
+   "magical_defense": 79,
+   "base_card_points": 19,
+   "price_tier": 8,
+   "category_6": 12,
+   "category_7": 4
+  },
+  {
+   "id": 83,
+   "name": "Cargo Ship",
+   "name_reference": 175,
+   "attack": 18,
+   "type": 0,
+   "physical_defense": 39,
+   "magical_defense": 5,
+   "base_card_points": 6,
+   "price_tier": 3,
+   "category_6": 12,
+   "category_7": 4
+  },
+  {
+   "id": 84,
+   "name": "Hilda Garde 1",
+   "name_reference": 223,
+   "attack": 78,
+   "type": 0,
+   "physical_defense": 22,
+   "magical_defense": 15,
+   "base_card_points": 10,
+   "price_tier": 6,
+   "category_6": 12,
+   "category_7": 4
+  },
+  {
+   "id": 85,
+   "name": "Red Rose",
+   "name_reference": 143,
+   "attack": 60,
+   "type": 0,
+   "physical_defense": 28,
+   "magical_defense": 23,
+   "base_card_points": 10,
+   "price_tier": 5,
+   "category_6": 12,
+   "category_7": 4
+  },
+  {
+   "id": 86,
+   "name": "Theater Ship",
+   "name_reference": 207,
+   "attack": 36,
+   "type": 0,
+   "physical_defense": 41,
+   "magical_defense": 23,
+   "base_card_points": 9,
+   "price_tier": 4,
+   "category_6": 12,
+   "category_7": 4
+  },
+  {
+   "id": 87,
+   "name": "Viltgance",
+   "name_reference": 159,
+   "attack": 89,
+   "type": 0,
+   "physical_defense": 32,
+   "magical_defense": 30,
+   "base_card_points": 14,
+   "price_tier": 7,
+   "category_6": 12,
+   "category_7": 4
+  },
+  {
+   "id": 88,
+   "name": "Chocobo",
+   "name_reference": 127,
+   "attack": 23,
+   "type": 0,
+   "physical_defense": 32,
+   "magical_defense": 7,
+   "base_card_points": 6,
+   "price_tier": 3,
+   "category_6": 3,
+   "category_7": 5
+  },
+  {
+   "id": 89,
+   "name": "Fat Chocobo",
+   "name_reference": 191,
+   "attack": 34,
+   "type": 0,
+   "physical_defense": 76,
+   "magical_defense": 32,
+   "base_card_points": 13,
+   "price_tier": 6,
+   "category_6": 3,
+   "category_7": 5
+  },
+  {
+   "id": 90,
+   "name": "Mog",
+   "name_reference": 63,
+   "attack": 23,
+   "type": 1,
+   "physical_defense": 45,
+   "magical_defense": 56,
+   "base_card_points": 11,
+   "price_tier": 5,
+   "category_6": 3,
+   "category_7": 5
+  },
+  {
+   "id": 91,
+   "name": "Frog",
+   "name_reference": 79,
+   "attack": 10,
+   "type": 0,
+   "physical_defense": 10,
+   "magical_defense": 10,
+   "base_card_points": 6,
+   "price_tier": 3,
+   "category_6": 3,
+   "category_7": 5
+  },
+  {
+   "id": 92,
+   "name": "Oglop",
+   "name_reference": 95,
+   "attack": 77,
+   "type": 0,
+   "physical_defense": 77,
+   "magical_defense": 77,
+   "base_card_points": 26,
+   "price_tier": 12,
+   "category_6": 4,
+   "category_7": 8
+  },
+  {
+   "id": 93,
+   "name": "Alexandria",
+   "name_reference": 175,
+   "attack": 40,
+   "type": 0,
+   "physical_defense": 90,
+   "magical_defense": 110,
+   "base_card_points": 22,
+   "price_tier": 11,
+   "category_6": 13,
+   "category_7": 6
+  },
+  {
+   "id": 94,
+   "name": "Lindblum",
+   "name_reference": 143,
+   "attack": 12,
+   "type": 0,
+   "physical_defense": 80,
+   "magical_defense": 70,
+   "base_card_points": 15,
+   "price_tier": 7,
+   "category_6": 3,
+   "category_7": 6
+  },
+  {
+   "id": 95,
+   "name": "Two Moons",
+   "name_reference": 159,
+   "attack": 44,
+   "type": 1,
+   "physical_defense": 34,
+   "magical_defense": 34,
+   "base_card_points": 10,
+   "price_tier": 5,
+   "category_6": 2,
+   "category_7": 8
+  },
+  {
+   "id": 96,
+   "name": "Gargant",
+   "name_reference": 127,
+   "attack": 67,
+   "type": 0,
+   "physical_defense": 28,
+   "magical_defense": 32,
+   "base_card_points": 12,
+   "price_tier": 6,
+   "category_6": 12,
+   "category_7": 4
+  },
+  {
+   "id": 97,
+   "name": "Namingway",
+   "name_reference": 159,
+   "attack": 50,
+   "type": 1,
+   "physical_defense": 90,
+   "magical_defense": 110,
+   "base_card_points": 23,
+   "price_tier": 11,
+   "category_6": 26,
+   "category_7": 5
+  },
+  {
+   "id": 98,
+   "name": "Boco",
+   "name_reference": 79,
+   "attack": 50,
+   "type": 0,
+   "physical_defense": 100,
+   "magical_defense": 80,
+   "base_card_points": 21,
+   "price_tier": 11,
+   "category_6": 25,
+   "category_7": 5
+  },
+  {
+   "id": 99,
+   "name": "Airship",
+   "name_reference": 127,
+   "attack": 90,
+   "type": 0,
+   "physical_defense": 90,
+   "magical_defense": 50,
+   "base_card_points": 21,
+   "price_tier": 21,
+   "category_6": 27,
+   "category_7": 4
+  },
+  {
+   "id": 100,
+   "name": "Garnet",
+   "name_reference": 111,
+   "attack": 60,
+   "type": 1,
+   "physical_defense": 35,
+   "magical_defense": 75,
+   "base_card_points": 15,
+   "price_tier": 6,
+   "category_6": 6,
+   "category_7": 7
+  },
+  {
+   "id": 101,
+   "name": "Eiko",
+   "name_reference": 79,
+   "attack": 65,
+   "type": 1,
+   "physical_defense": 30,
+   "magical_defense": 70,
+   "base_card_points": 15,
+   "price_tier": 6,
+   "category_6": 2,
+   "category_7": 7
+  },
+  {
+   "id": 102,
+   "name": "Freya",
+   "name_reference": 95,
+   "attack": 65,
+   "type": 0,
+   "physical_defense": 56,
+   "magical_defense": 40,
+   "base_card_points": 15,
+   "price_tier": 6,
+   "category_6": 3,
+   "category_7": 7
+  },
+  {
+   "id": 103,
+   "name": "Quina",
+   "name_reference": 95,
+   "attack": 54,
+   "type": 1,
+   "physical_defense": 32,
+   "magical_defense": 67,
+   "base_card_points": 14,
+   "price_tier": 6,
+   "category_6": 2,
+   "category_7": 7
+  },
+  {
+   "id": 104,
+   "name": "Amarant",
+   "name_reference": 127,
+   "attack": 76,
+   "type": 0,
+   "physical_defense": 65,
+   "magical_defense": 43,
+   "base_card_points": 17,
+   "price_tier": 8,
+   "category_6": 3,
+   "category_7": 7
+  },
+  {
+   "id": 105,
+   "name": "Steiner",
+   "name_reference": 127,
+   "attack": 70,
+   "type": 0,
+   "physical_defense": 59,
+   "magical_defense": 40,
+   "base_card_points": 15,
+   "price_tier": 6,
+   "category_6": 7,
+   "category_7": 7
+  },
+  {
+   "id": 106,
+   "name": "Vivi",
+   "name_reference": 79,
+   "attack": 70,
+   "type": 1,
+   "physical_defense": 45,
+   "magical_defense": 76,
+   "base_card_points": 17,
+   "price_tier": 6,
+   "category_6": 2,
+   "category_7": 7
+  },
+  {
+   "id": 107,
+   "name": "Zidane",
+   "name_reference": 111,
+   "attack": 83,
+   "type": 0,
+   "physical_defense": 76,
+   "magical_defense": 69,
+   "base_card_points": 21,
+   "price_tier": 9,
+   "category_6": 24,
+   "category_7": 7
+  },
+  {
+   "id": 108,
+   "name": "Beatrix",
+   "name_reference": 127,
+   "attack": 86,
+   "type": 0,
+   "physical_defense": 56,
+   "magical_defense": 40,
+   "base_card_points": 17,
+   "price_tier": 6,
+   "category_6": 5,
+   "category_7": 7
+  },
+  {
+   "id": 109,
+   "name": "Queen Brahne",
+   "name_reference": 207,
+   "attack": 87,
+   "type": 1,
+   "physical_defense": 67,
+   "magical_defense": 78,
+   "base_card_points": 21,
+   "price_tier": 9,
+   "category_6": 2,
+   "category_7": 7
+  },
+  {
+   "id": 110,
+   "name": "Kuja",
+   "name_reference": 79,
+   "attack": 56,
+   "type": 1,
+   "physical_defense": 45,
+   "magical_defense": 67,
+   "base_card_points": 15,
+   "price_tier": 7,
+   "category_6": 2,
+   "category_7": 7
+  },
+  {
+   "id": 111,
+   "name": "T. Garnet",
+   "name_reference": 159,
+   "attack": 75,
+   "type": 2,
+   "physical_defense": 50,
+   "magical_defense": 90,
+   "base_card_points": 25,
+   "price_tier": 7,
+   "category_6": 6,
+   "category_7": 7
+  },
+  {
+   "id": 112,
+   "name": "T. Eiko",
+   "name_reference": 127,
+   "attack": 80,
+   "type": 2,
+   "physical_defense": 55,
+   "magical_defense": 85,
+   "base_card_points": 25,
+   "price_tier": 7,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 113,
+   "name": "T. Freya",
+   "name_reference": 143,
+   "attack": 80,
+   "type": 2,
+   "physical_defense": 71,
+   "magical_defense": 55,
+   "base_card_points": 24,
+   "price_tier": 9,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 114,
+   "name": "T. Quina",
+   "name_reference": 143,
+   "attack": 69,
+   "type": 2,
+   "physical_defense": 47,
+   "magical_defense": 82,
+   "base_card_points": 23,
+   "price_tier": 9,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 115,
+   "name": "T. Amarant",
+   "name_reference": 175,
+   "attack": 91,
+   "type": 2,
+   "physical_defense": 80,
+   "magical_defense": 58,
+   "base_card_points": 26,
+   "price_tier": 10,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 116,
+   "name": "T. Steiner",
+   "name_reference": 175,
+   "attack": 85,
+   "type": 2,
+   "physical_defense": 74,
+   "magical_defense": 55,
+   "base_card_points": 24,
+   "price_tier": 9,
+   "category_6": 7,
+   "category_7": 7
+  },
+  {
+   "id": 117,
+   "name": "T. Vivi",
+   "name_reference": 127,
+   "attack": 85,
+   "type": 2,
+   "physical_defense": 60,
+   "magical_defense": 91,
+   "base_card_points": 26,
+   "price_tier": 8,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 118,
+   "name": "T. Zidane",
+   "name_reference": 159,
+   "attack": 98,
+   "type": 2,
+   "physical_defense": 91,
+   "magical_defense": 84,
+   "base_card_points": 30,
+   "price_tier": 10,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 119,
+   "name": "T. Kuja",
+   "name_reference": 127,
+   "attack": 105,
+   "type": 2,
+   "physical_defense": 75,
+   "magical_defense": 95,
+   "base_card_points": 30,
+   "price_tier": 10,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 120,
+   "name": "Nero Brothers",
+   "name_reference": 223,
+   "attack": 99,
+   "type": 2,
+   "physical_defense": 66,
+   "magical_defense": 99,
+   "base_card_points": 29,
+   "price_tier": 11,
+   "category_6": 14,
+   "category_7": 8
+  },
+  {
+   "id": 121,
+   "name": "Thorn",
+   "name_reference": 95,
+   "attack": 55,
+   "type": 1,
+   "physical_defense": 34,
+   "magical_defense": 76,
+   "base_card_points": 15,
+   "price_tier": 7,
+   "category_6": 2,
+   "category_7": 7
+  },
+  {
+   "id": 122,
+   "name": "Zorn",
+   "name_reference": 79,
+   "attack": 55,
+   "type": 1,
+   "physical_defense": 34,
+   "magical_defense": 76,
+   "base_card_points": 15,
+   "price_tier": 7,
+   "category_6": 2,
+   "category_7": 7
+  },
+  {
+   "id": 123,
+   "name": "Lani",
+   "name_reference": 79,
+   "attack": 56,
+   "type": 0,
+   "physical_defense": 45,
+   "magical_defense": 56,
+   "base_card_points": 14,
+   "price_tier": 7,
+   "category_6": 3,
+   "category_7": 7
+  },
+  {
+   "id": 124,
+   "name": "Baku",
+   "name_reference": 79,
+   "attack": 45,
+   "type": 0,
+   "physical_defense": 56,
+   "magical_defense": 21,
+   "base_card_points": 11,
+   "price_tier": 5,
+   "category_6": 3,
+   "category_7": 7
+  },
+  {
+   "id": 125,
+   "name": "Blank",
+   "name_reference": 95,
+   "attack": 45,
+   "type": 0,
+   "physical_defense": 56,
+   "magical_defense": 21,
+   "base_card_points": 12,
+   "price_tier": 5,
+   "category_6": 3,
+   "category_7": 7
+  },
+  {
+   "id": 126,
+   "name": "Mist Spawn",
+   "name_reference": 175,
+   "attack": 56,
+   "type": 1,
+   "physical_defense": 34,
+   "magical_defense": 60,
+   "base_card_points": 14,
+   "price_tier": 6,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 127,
+   "name": "Quan",
+   "name_reference": 79,
+   "attack": 65,
+   "type": 1,
+   "physical_defense": 45,
+   "magical_defense": 70,
+   "base_card_points": 16,
+   "price_tier": 7,
+   "category_6": 2,
+   "category_7": 7
+  },
+  {
+   "id": 128,
+   "name": "King Leo",
+   "name_reference": 143,
+   "attack": 99,
+   "type": 0,
+   "physical_defense": 66,
+   "magical_defense": 66,
+   "base_card_points": 21,
+   "price_tier": 11,
+   "category_6": 10,
+   "category_7": 8
+  },
+  {
+   "id": 129,
+   "name": "Ladybug",
+   "name_reference": 127,
+   "attack": 9,
+   "type": 0,
+   "physical_defense": 15,
+   "magical_defense": 12,
+   "base_card_points": 3,
+   "price_tier": 2,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 130,
+   "name": "Necron",
+   "name_reference": 111,
+   "attack": 110,
+   "type": 3,
+   "physical_defense": 100,
+   "magical_defense": 100,
+   "base_card_points": 38,
+   "price_tier": 21,
+   "category_6": 16,
+   "category_7": 1
+  },
+  {
+   "id": 131,
+   "name": "Red Dragon",
+   "name_reference": 175,
+   "attack": 76,
+   "type": 0,
+   "physical_defense": 45,
+   "magical_defense": 65,
+   "base_card_points": 17,
+   "price_tier": 8,
+   "category_6": 3,
+   "category_7": 1
+  },
+  {
+   "id": 132,
+   "name": "Earth Guardian",
+   "name_reference": 239,
+   "attack": 65,
+   "type": 1,
+   "physical_defense": 32,
+   "magical_defense": 67,
+   "base_card_points": 15,
+   "price_tier": 7,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 133,
+   "name": "Masked Man",
+   "name_reference": 175,
+   "attack": 77,
+   "type": 0,
+   "physical_defense": 77,
+   "magical_defense": 77,
+   "base_card_points": 21,
+   "price_tier": 11,
+   "category_6": 10,
+   "category_7": 8
+  },
+  {
+   "id": 134,
+   "name": "Silver Dragon",
+   "name_reference": 223,
+   "attack": 87,
+   "type": 0,
+   "physical_defense": 43,
+   "magical_defense": 30,
+   "base_card_points": 15,
+   "price_tier": 7,
+   "category_6": 18,
+   "category_7": 1
+  },
+  {
+   "id": 135,
+   "name": "Orichalcum",
+   "name_reference": 175,
+   "attack": 83,
+   "type": 0,
+   "physical_defense": 27,
+   "magical_defense": 40,
+   "base_card_points": 14,
+   "price_tier": 7,
+   "category_6": 3,
+   "category_7": 3
+  },
+  {
+   "id": 136,
+   "name": "Defender",
+   "name_reference": 143,
+   "attack": 54,
+   "type": 0,
+   "physical_defense": 43,
+   "magical_defense": 35,
+   "base_card_points": 12,
+   "price_tier": 4,
+   "category_6": 3,
+   "category_7": 3
+  },
+  {
+   "id": 137,
+   "name": "Kain's Lance",
+   "name_reference": 207,
+   "attack": 83,
+   "type": 0,
+   "physical_defense": 35,
+   "magical_defense": 25,
+   "base_card_points": 13,
+   "price_tier": 6,
+   "category_6": 3,
+   "category_7": 3
+  },
+  {
+   "id": 138,
+   "name": "Dragon's Hair",
+   "name_reference": 223,
+   "attack": 84,
+   "type": 0,
+   "physical_defense": 25,
+   "magical_defense": 30,
+   "base_card_points": 18,
+   "price_tier": 7,
+   "category_6": 19,
+   "category_7": 3
+  },
+  {
+   "id": 139,
+   "name": "Rune Claws",
+   "name_reference": 175,
+   "attack": 74,
+   "type": 0,
+   "physical_defense": 79,
+   "magical_defense": 75,
+   "base_card_points": 21,
+   "price_tier": 8,
+   "category_6": 21,
+   "category_7": 3
+  },
+  {
+   "id": 140,
+   "name": "Priest's Racket",
+   "name_reference": 255,
+   "attack": 35,
+   "type": 1,
+   "physical_defense": 40,
+   "magical_defense": 46,
+   "base_card_points": 11,
+   "price_tier": 4,
+   "category_6": 2,
+   "category_7": 3
+  },
+  {
+   "id": 141,
+   "name": "Whale Whisker",
+   "name_reference": 223,
+   "attack": 45,
+   "type": 1,
+   "physical_defense": 53,
+   "magical_defense": 45,
+   "base_card_points": 13,
+   "price_tier": 5,
+   "category_6": 29,
+   "category_7": 3
+  },
+  {
+   "id": 142,
+   "name": "Angel Flute",
+   "name_reference": 191,
+   "attack": 30,
+   "type": 1,
+   "physical_defense": 52,
+   "magical_defense": 59,
+   "base_card_points": 13,
+   "price_tier": 4,
+   "category_6": 24,
+   "category_7": 3
+  },
+  {
+   "id": 143,
+   "name": "Mace of Zeus",
+   "name_reference": 207,
+   "attack": 63,
+   "type": 1,
+   "physical_defense": 24,
+   "magical_defense": 34,
+   "base_card_points": 11,
+   "price_tier": 4,
+   "category_6": 22,
+   "category_7": 3
+  },
+  {
+   "id": 144,
+   "name": "Gastro Fork",
+   "name_reference": 191,
+   "attack": 88,
+   "type": 1,
+   "physical_defense": 21,
+   "magical_defense": 12,
+   "base_card_points": 11,
+   "price_tier": 5,
+   "category_6": 20,
+   "category_7": 3
+  },
+  {
+   "id": 145,
+   "name": "The Tower",
+   "name_reference": 159,
+   "attack": 88,
+   "type": 0,
+   "physical_defense": 53,
+   "magical_defense": 64,
+   "base_card_points": 19,
+   "price_tier": 8,
+   "category_6": 3,
+   "category_7": 3
+  },
+  {
+   "id": 146,
+   "name": "Ultima Sword",
+   "name_reference": 207,
+   "attack": 87,
+   "type": 0,
+   "physical_defense": 20,
+   "magical_defense": 35,
+   "base_card_points": 13,
+   "price_tier": 6,
+   "category_6": 28,
+   "category_7": 3
+  },
+  {
+   "id": 147,
+   "name": "Carbuncle",
+   "name_reference": 159,
+   "attack": 34,
+   "type": 1,
+   "physical_defense": 68,
+   "magical_defense": 76,
+   "base_card_points": 16,
+   "price_tier": 7,
+   "category_6": 2,
+   "category_7": 2
+  },
+  {
+   "id": 148,
+   "name": "Hippaul",
+   "name_reference": 127,
+   "attack": 10,
+   "type": 0,
+   "physical_defense": 10,
+   "magical_defense": 10,
+   "base_card_points": 3,
+   "price_tier": 0,
+   "category_6": 1,
+   "category_7": 8
+  },
+  {
+   "id": 149,
+   "name": "Hip Hippaul",
+   "name_reference": 191,
+   "attack": 95,
+   "type": 3,
+   "physical_defense": 110,
+   "magical_defense": 110,
+   "base_card_points": 39,
+   "price_tier": 23,
+   "category_6": 15,
+   "category_7": 8
+  },
+  {
+   "id": 150,
+   "name": "Tidus",
+   "name_reference": 95,
+   "attack": 78,
+   "type": 0,
+   "physical_defense": 70,
+   "magical_defense": 65,
+   "base_card_points": 19,
+   "price_tier": 19,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 151,
+   "name": "Yuna",
+   "name_reference": 79,
+   "attack": 65,
+   "type": 1,
+   "physical_defense": 50,
+   "magical_defense": 90,
+   "base_card_points": 18,
+   "price_tier": 18,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 152,
+   "name": "Bride Yuna",
+   "name_reference": 175,
+   "attack": 95,
+   "type": 3,
+   "physical_defense": 70,
+   "magical_defense": 110,
+   "base_card_points": 35,
+   "price_tier": 24,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 153,
+   "name": "Wakka",
+   "name_reference": 95,
+   "attack": 75,
+   "type": 0,
+   "physical_defense": 70,
+   "magical_defense": 60,
+   "base_card_points": 18,
+   "price_tier": 18,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 154,
+   "name": "Lulu",
+   "name_reference": 79,
+   "attack": 56,
+   "type": 1,
+   "physical_defense": 68,
+   "magical_defense": 99,
+   "base_card_points": 20,
+   "price_tier": 18,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 155,
+   "name": "Kimahri",
+   "name_reference": 127,
+   "attack": 80,
+   "type": 0,
+   "physical_defense": 45,
+   "magical_defense": 95,
+   "base_card_points": 20,
+   "price_tier": 18,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 156,
+   "name": "Auron",
+   "name_reference": 95,
+   "attack": 105,
+   "type": 0,
+   "physical_defense": 85,
+   "magical_defense": 65,
+   "base_card_points": 23,
+   "price_tier": 19,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 157,
+   "name": "Rikku",
+   "name_reference": 95,
+   "attack": 77,
+   "type": 0,
+   "physical_defense": 69,
+   "magical_defense": 75,
+   "base_card_points": 20,
+   "price_tier": 18,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 158,
+   "name": "Masked Rikku",
+   "name_reference": 207,
+   "attack": 97,
+   "type": 3,
+   "physical_defense": 89,
+   "magical_defense": 95,
+   "base_card_points": 36,
+   "price_tier": 24,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 159,
+   "name": "Seymour",
+   "name_reference": 127,
+   "attack": 85,
+   "type": 1,
+   "physical_defense": 65,
+   "magical_defense": 85,
+   "base_card_points": 21,
+   "price_tier": 19,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 160,
+   "name": "Jecht",
+   "name_reference": 95,
+   "attack": 84,
+   "type": 0,
+   "physical_defense": 99,
+   "magical_defense": 75,
+   "base_card_points": 23,
+   "price_tier": 20,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 161,
+   "name": "Braska",
+   "name_reference": 111,
+   "attack": 100,
+   "type": 2,
+   "physical_defense": 90,
+   "magical_defense": 99,
+   "base_card_points": 31,
+   "price_tier": 21,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 162,
+   "name": "Cid",
+   "name_reference": 63,
+   "attack": 65,
+   "type": 0,
+   "physical_defense": 50,
+   "magical_defense": 45,
+   "base_card_points": 15,
+   "price_tier": 16,
+   "category_6": 2,
+   "category_7": 7
+  },
+  {
+   "id": 163,
+   "name": "Mika",
+   "name_reference": 79,
+   "attack": 45,
+   "type": 0,
+   "physical_defense": 34,
+   "magical_defense": 55,
+   "base_card_points": 12,
+   "price_tier": 13,
+   "category_6": 2,
+   "category_7": 7
+  },
+  {
+   "id": 164,
+   "name": "Yunalesca",
+   "name_reference": 159,
+   "attack": 90,
+   "type": 1,
+   "physical_defense": 78,
+   "magical_defense": 99,
+   "base_card_points": 24,
+   "price_tier": 23,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 165,
+   "name": "Mystery Boy",
+   "name_reference": 191,
+   "attack": 5,
+   "type": 3,
+   "physical_defense": 66,
+   "magical_defense": 5,
+   "base_card_points": 20,
+   "price_tier": 24,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 166,
+   "name": "Shelinda",
+   "name_reference": 143,
+   "attack": 20,
+   "type": 1,
+   "physical_defense": 40,
+   "magical_defense": 45,
+   "base_card_points": 10,
+   "price_tier": 13,
+   "category_6": 2,
+   "category_7": 7
+  },
+  {
+   "id": 167,
+   "name": "Maechen",
+   "name_reference": 127,
+   "attack": 35,
+   "type": 1,
+   "physical_defense": 30,
+   "magical_defense": 40,
+   "base_card_points": 10,
+   "price_tier": 13,
+   "category_6": 2,
+   "category_7": 7
+  },
+  {
+   "id": 168,
+   "name": "Chappu",
+   "name_reference": 111,
+   "attack": 65,
+   "type": 0,
+   "physical_defense": 50,
+   "magical_defense": 30,
+   "base_card_points": 13,
+   "price_tier": 14,
+   "category_6": 2,
+   "category_7": 7
+  },
+  {
+   "id": 169,
+   "name": "Lucil",
+   "name_reference": 95,
+   "attack": 60,
+   "type": 0,
+   "physical_defense": 64,
+   "magical_defense": 40,
+   "base_card_points": 15,
+   "price_tier": 16,
+   "category_6": 2,
+   "category_7": 7
+  },
+  {
+   "id": 170,
+   "name": "Dona",
+   "name_reference": 79,
+   "attack": 78,
+   "type": 1,
+   "physical_defense": 67,
+   "magical_defense": 75,
+   "base_card_points": 20,
+   "price_tier": 18,
+   "category_6": 2,
+   "category_7": 7
+  },
+  {
+   "id": 171,
+   "name": "Barthello",
+   "name_reference": 159,
+   "attack": 70,
+   "type": 0,
+   "physical_defense": 85,
+   "magical_defense": 45,
+   "base_card_points": 18,
+   "price_tier": 17,
+   "category_6": 2,
+   "category_7": 7
+  },
+  {
+   "id": 172,
+   "name": "O'aka XXIII",
+   "name_reference": 191,
+   "attack": 35,
+   "type": 0,
+   "physical_defense": 45,
+   "magical_defense": 57,
+   "base_card_points": 12,
+   "price_tier": 14,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 173,
+   "name": "Isaaru",
+   "name_reference": 111,
+   "attack": 72,
+   "type": 1,
+   "physical_defense": 65,
+   "magical_defense": 79,
+   "base_card_points": 20,
+   "price_tier": 18,
+   "category_6": 2,
+   "category_7": 7
+  },
+  {
+   "id": 174,
+   "name": "Belgemine",
+   "name_reference": 159,
+   "attack": 80,
+   "type": 1,
+   "physical_defense": 67,
+   "magical_defense": 77,
+   "base_card_points": 20,
+   "price_tier": 18,
+   "category_6": 2,
+   "category_7": 7
+  },
+  {
+   "id": 175,
+   "name": "Brother",
+   "name_reference": 127,
+   "attack": 73,
+   "type": 0,
+   "physical_defense": 34,
+   "magical_defense": 40,
+   "base_card_points": 13,
+   "price_tier": 15,
+   "category_6": 0,
+   "category_7": 7
+  },
+  {
+   "id": 176,
+   "name": "Rin",
+   "name_reference": 63,
+   "attack": 45,
+   "type": 0,
+   "physical_defense": 59,
+   "magical_defense": 43,
+   "base_card_points": 13,
+   "price_tier": 15,
+   "category_6": 2,
+   "category_7": 7
+  },
+  {
+   "id": 177,
+   "name": "Datto",
+   "name_reference": 95,
+   "attack": 55,
+   "type": 0,
+   "physical_defense": 45,
+   "magical_defense": 17,
+   "base_card_points": 11,
+   "price_tier": 14,
+   "category_6": 1,
+   "category_7": 7
+  },
+  {
+   "id": 178,
+   "name": "Letty",
+   "name_reference": 95,
+   "attack": 47,
+   "type": 0,
+   "physical_defense": 28,
+   "magical_defense": 20,
+   "base_card_points": 9,
+   "price_tier": 13,
+   "category_6": 1,
+   "category_7": 7
+  },
+  {
+   "id": 179,
+   "name": "Jassu",
+   "name_reference": 95,
+   "attack": 39,
+   "type": 0,
+   "physical_defense": 41,
+   "magical_defense": 38,
+   "base_card_points": 11,
+   "price_tier": 14,
+   "category_6": 1,
+   "category_7": 7
+  },
+  {
+   "id": 180,
+   "name": "Botta",
+   "name_reference": 95,
+   "attack": 32,
+   "type": 0,
+   "physical_defense": 56,
+   "magical_defense": 29,
+   "base_card_points": 11,
+   "price_tier": 14,
+   "category_6": 1,
+   "category_7": 7
+  },
+  {
+   "id": 181,
+   "name": "Keepa",
+   "name_reference": 95,
+   "attack": 25,
+   "type": 0,
+   "physical_defense": 65,
+   "magical_defense": 61,
+   "base_card_points": 14,
+   "price_tier": 15,
+   "category_6": 1,
+   "category_7": 7
+  },
+  {
+   "id": 182,
+   "name": "Valefor",
+   "name_reference": 127,
+   "attack": 45,
+   "type": 1,
+   "physical_defense": 65,
+   "magical_defense": 66,
+   "base_card_points": 16,
+   "price_tier": 16,
+   "category_6": 0,
+   "category_7": 2
+  },
+  {
+   "id": 183,
+   "name": "Ixion",
+   "name_reference": 95,
+   "attack": 56,
+   "type": 1,
+   "physical_defense": 68,
+   "magical_defense": 70,
+   "base_card_points": 18,
+   "price_tier": 17,
+   "category_6": 2,
+   "category_7": 2
+  },
+  {
+   "id": 184,
+   "name": "Yojimbo",
+   "name_reference": 127,
+   "attack": 82,
+   "type": 2,
+   "physical_defense": 66,
+   "magical_defense": 56,
+   "base_card_points": 24,
+   "price_tier": 20,
+   "category_6": 0,
+   "category_7": 2
+  },
+  {
+   "id": 185,
+   "name": "Anima",
+   "name_reference": 95,
+   "attack": 110,
+   "type": 3,
+   "physical_defense": 56,
+   "magical_defense": 70,
+   "base_card_points": 31,
+   "price_tier": 21,
+   "category_6": 0,
+   "category_7": 2
+  },
+  {
+   "id": 186,
+   "name": "Cindy",
+   "name_reference": 95,
+   "attack": 33,
+   "type": 2,
+   "physical_defense": 99,
+   "magical_defense": 33,
+   "base_card_points": 20,
+   "price_tier": 16,
+   "category_6": 0,
+   "category_7": 2
+  },
+  {
+   "id": 187,
+   "name": "Sandy",
+   "name_reference": 95,
+   "attack": 99,
+   "type": 2,
+   "physical_defense": 33,
+   "magical_defense": 33,
+   "base_card_points": 20,
+   "price_tier": 16,
+   "category_6": 0,
+   "category_7": 2
+  },
+  {
+   "id": 188,
+   "name": "Mindy",
+   "name_reference": 95,
+   "attack": 33,
+   "type": 2,
+   "physical_defense": 33,
+   "magical_defense": 99,
+   "base_card_points": 20,
+   "price_tier": 16,
+   "category_6": 0,
+   "category_7": 2
+  },
+  {
+   "id": 189,
+   "name": "Caladbolg",
+   "name_reference": 159,
+   "attack": 107,
+   "type": 0,
+   "physical_defense": 65,
+   "magical_defense": 55,
+   "base_card_points": 20,
+   "price_tier": 18,
+   "category_6": 2,
+   "category_7": 3
+  },
+  {
+   "id": 190,
+   "name": "Nirvana",
+   "name_reference": 127,
+   "attack": 45,
+   "type": 1,
+   "physical_defense": 87,
+   "magical_defense": 97,
+   "base_card_points": 20,
+   "price_tier": 18,
+   "category_6": 2,
+   "category_7": 3
+  },
+  {
+   "id": 191,
+   "name": "World Champion",
+   "name_reference": 239,
+   "attack": 95,
+   "type": 0,
+   "physical_defense": 56,
+   "magical_defense": 65,
+   "base_card_points": 20,
+   "price_tier": 18,
+   "category_6": 1,
+   "category_7": 3
+  },
+  {
+   "id": 192,
+   "name": "Ace Striker",
+   "name_reference": 191,
+   "attack": 54,
+   "type": 0,
+   "physical_defense": 34,
+   "magical_defense": 29,
+   "base_card_points": 11,
+   "price_tier": 14,
+   "category_6": 1,
+   "category_7": 3
+  },
+  {
+   "id": 193,
+   "name": "Onion Knight",
+   "name_reference": 207,
+   "attack": 94,
+   "type": 1,
+   "physical_defense": 56,
+   "magical_defense": 79,
+   "base_card_points": 21,
+   "price_tier": 19,
+   "category_6": 0,
+   "category_7": 3
+  },
+  {
+   "id": 194,
+   "name": "Spirit Lance",
+   "name_reference": 207,
+   "attack": 81,
+   "type": 0,
+   "physical_defense": 65,
+   "magical_defense": 77,
+   "base_card_points": 20,
+   "price_tier": 18,
+   "category_6": 2,
+   "category_7": 3
+  },
+  {
+   "id": 195,
+   "name": "Masamune",
+   "name_reference": 143,
+   "attack": 110,
+   "type": 0,
+   "physical_defense": 63,
+   "magical_defense": 52,
+   "base_card_points": 20,
+   "price_tier": 18,
+   "category_6": 2,
+   "category_7": 3
+  },
+  {
+   "id": 196,
+   "name": "Godhand",
+   "name_reference": 127,
+   "attack": 76,
+   "type": 0,
+   "physical_defense": 67,
+   "magical_defense": 45,
+   "base_card_points": 17,
+   "price_tier": 17,
+   "category_6": 2,
+   "category_7": 3
+  },
+  {
+   "id": 197,
+   "name": "Monkey",
+   "name_reference": 111,
+   "attack": 15,
+   "type": 0,
+   "physical_defense": 40,
+   "magical_defense": 40,
+   "base_card_points": 9,
+   "price_tier": 13,
+   "category_6": 0,
+   "category_7": 5
+  },
+  {
+   "id": 198,
+   "name": "Spira Gull",
+   "name_reference": 175,
+   "attack": 10,
+   "type": 0,
+   "physical_defense": 45,
+   "magical_defense": 26,
+   "base_card_points": 7,
+   "price_tier": 13,
+   "category_6": 0,
+   "category_7": 5
+  },
+  {
+   "id": 199,
+   "name": "Shoopuf",
+   "name_reference": 127,
+   "attack": 80,
+   "type": 0,
+   "physical_defense": 32,
+   "magical_defense": 45,
+   "base_card_points": 14,
+   "price_tier": 15,
+   "category_6": 0,
+   "category_7": 5
+  },
+  {
+   "id": 200,
+   "name": "Chocobo Eater",
+   "name_reference": 223,
+   "attack": 65,
+   "type": 0,
+   "physical_defense": 54,
+   "magical_defense": 67,
+   "base_card_points": 17,
+   "price_tier": 17,
+   "category_6": 0,
+   "category_7": 1
+  },
+  {
+   "id": 201,
+   "name": "Geosgaeno",
+   "name_reference": 159,
+   "attack": 69,
+   "type": 0,
+   "physical_defense": 55,
+   "magical_defense": 56,
+   "base_card_points": 16,
+   "price_tier": 16,
+   "category_6": 0,
+   "category_7": 1
+  },
+  {
+   "id": 202,
+   "name": "Lord Ochu",
+   "name_reference": 159,
+   "attack": 67,
+   "type": 1,
+   "physical_defense": 47,
+   "magical_defense": 40,
+   "base_card_points": 14,
+   "price_tier": 15,
+   "category_6": 0,
+   "category_7": 1
+  },
+  {
+   "id": 203,
+   "name": "Evrae",
+   "name_reference": 95,
+   "attack": 56,
+   "type": 1,
+   "physical_defense": 43,
+   "magical_defense": 56,
+   "base_card_points": 14,
+   "price_tier": 15,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 204,
+   "name": "Wendigo",
+   "name_reference": 127,
+   "attack": 75,
+   "type": 0,
+   "physical_defense": 67,
+   "magical_defense": 43,
+   "base_card_points": 17,
+   "price_tier": 17,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 205,
+   "name": "Crawler",
+   "name_reference": 127,
+   "attack": 87,
+   "type": 0,
+   "physical_defense": 66,
+   "magical_defense": 35,
+   "base_card_points": 17,
+   "price_tier": 17,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 206,
+   "name": "Negator",
+   "name_reference": 127,
+   "attack": 15,
+   "type": 0,
+   "physical_defense": 83,
+   "magical_defense": 77,
+   "base_card_points": 16,
+   "price_tier": 16,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 207,
+   "name": "Biran Ronso",
+   "name_reference": 191,
+   "attack": 70,
+   "type": 0,
+   "physical_defense": 65,
+   "magical_defense": 45,
+   "base_card_points": 16,
+   "price_tier": 16,
+   "category_6": 1,
+   "category_7": 7
+  },
+  {
+   "id": 208,
+   "name": "Yenke Ronso",
+   "name_reference": 191,
+   "attack": 60,
+   "type": 0,
+   "physical_defense": 77,
+   "magical_defense": 40,
+   "base_card_points": 16,
+   "price_tier": 16,
+   "category_6": 1,
+   "category_7": 7
+  },
+  {
+   "id": 209,
+   "name": "Sanctuary Keeper",
+   "name_reference": 271,
+   "attack": 70,
+   "type": 1,
+   "physical_defense": 100,
+   "magical_defense": 100,
+   "base_card_points": 24,
+   "price_tier": 21,
+   "category_6": 0,
+   "category_7": 1
+  },
+  {
+   "id": 210,
+   "name": "Spectral Keeper",
+   "name_reference": 255,
+   "attack": 65,
+   "type": 1,
+   "physical_defense": 105,
+   "magical_defense": 105,
+   "base_card_points": 25,
+   "price_tier": 21,
+   "category_6": 0,
+   "category_7": 1
+  },
+  {
+   "id": 211,
+   "name": "Seymour Natus",
+   "name_reference": 223,
+   "attack": 90,
+   "type": 2,
+   "physical_defense": 70,
+   "magical_defense": 90,
+   "base_card_points": 28,
+   "price_tier": 21,
+   "category_6": 0,
+   "category_7": 1
+  },
+  {
+   "id": 212,
+   "name": "Seymour Flux",
+   "name_reference": 207,
+   "attack": 100,
+   "type": 2,
+   "physical_defense": 80,
+   "magical_defense": 95,
+   "base_card_points": 30,
+   "price_tier": 22,
+   "category_6": 0,
+   "category_7": 1
+  },
+  {
+   "id": 213,
+   "name": "Seymour Omnis",
+   "name_reference": 223,
+   "attack": 100,
+   "type": 3,
+   "physical_defense": 105,
+   "magical_defense": 95,
+   "base_card_points": 37,
+   "price_tier": 23,
+   "category_6": 0,
+   "category_7": 1
+  },
+  {
+   "id": 214,
+   "name": "Nemesis",
+   "name_reference": 127,
+   "attack": 110,
+   "type": 3,
+   "physical_defense": 105,
+   "magical_defense": 105,
+   "base_card_points": 39,
+   "price_tier": 24,
+   "category_6": 0,
+   "category_7": 1
+  },
+  {
+   "id": 215,
+   "name": "Sin",
+   "name_reference": 63,
+   "attack": 90,
+   "type": 2,
+   "physical_defense": 100,
+   "magical_defense": 100,
+   "base_card_points": 31,
+   "price_tier": 23,
+   "category_6": 0,
+   "category_7": 1
+  },
+  {
+   "id": 216,
+   "name": "Ammes",
+   "name_reference": 95,
+   "attack": 33,
+   "type": 1,
+   "physical_defense": 25,
+   "magical_defense": 60,
+   "base_card_points": 11,
+   "price_tier": 14,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 217,
+   "name": "Echuilles",
+   "name_reference": 159,
+   "attack": 45,
+   "type": 0,
+   "physical_defense": 40,
+   "magical_defense": 45,
+   "base_card_points": 12,
+   "price_tier": 14,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 218,
+   "name": "Geneaux",
+   "name_reference": 127,
+   "attack": 50,
+   "type": 0,
+   "physical_defense": 65,
+   "magical_defense": 67,
+   "base_card_points": 17,
+   "price_tier": 17,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 219,
+   "name": "Gui",
+   "name_reference": 63,
+   "attack": 79,
+   "type": 0,
+   "physical_defense": 55,
+   "magical_defense": 75,
+   "base_card_points": 19,
+   "price_tier": 18,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 220,
+   "name": "Genais",
+   "name_reference": 111,
+   "attack": 55,
+   "type": 0,
+   "physical_defense": 78,
+   "magical_defense": 80,
+   "base_card_points": 19,
+   "price_tier": 18,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 221,
+   "name": "Master Tonberry",
+   "name_reference": 255,
+   "attack": 85,
+   "type": 2,
+   "physical_defense": 33,
+   "magical_defense": 20,
+   "base_card_points": 18,
+   "price_tier": 16,
+   "category_6": 0,
+   "category_7": 1
+  },
+  {
+   "id": 222,
+   "name": "Don Tonberry",
+   "name_reference": 207,
+   "attack": 96,
+   "type": 3,
+   "physical_defense": 61,
+   "magical_defense": 51,
+   "base_card_points": 29,
+   "price_tier": 20,
+   "category_6": 0,
+   "category_7": 1
+  },
+  {
+   "id": 223,
+   "name": "Qactuar",
+   "name_reference": 127,
+   "attack": 50,
+   "type": 0,
+   "physical_defense": 40,
+   "magical_defense": 90,
+   "base_card_points": 16,
+   "price_tier": 16,
+   "category_6": 0,
+   "category_7": 1
+  },
+  {
+   "id": 224,
+   "name": "Cactuar King",
+   "name_reference": 207,
+   "attack": 90,
+   "type": 3,
+   "physical_defense": 70,
+   "magical_defense": 105,
+   "base_card_points": 34,
+   "price_tier": 21,
+   "category_6": 0,
+   "category_7": 1
+  },
+  {
+   "id": 225,
+   "name": "Garuda",
+   "name_reference": 111,
+   "attack": 35,
+   "type": 0,
+   "physical_defense": 35,
+   "magical_defense": 28,
+   "base_card_points": 9,
+   "price_tier": 13,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 226,
+   "name": "Gandarewa",
+   "name_reference": 159,
+   "attack": 35,
+   "type": 1,
+   "physical_defense": 25,
+   "magical_defense": 65,
+   "base_card_points": 11,
+   "price_tier": 14,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 227,
+   "name": "Varuna",
+   "name_reference": 111,
+   "attack": 64,
+   "type": 1,
+   "physical_defense": 43,
+   "magical_defense": 88,
+   "base_card_points": 17,
+   "price_tier": 17,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 228,
+   "name": "Piranha",
+   "name_reference": 127,
+   "attack": 15,
+   "type": 0,
+   "physical_defense": 15,
+   "magical_defense": 15,
+   "base_card_points": 4,
+   "price_tier": 13,
+   "category_6": 1,
+   "category_7": 1
+  },
+  {
+   "id": 229,
+   "name": "2 Piranhas",
+   "name_reference": 175,
+   "attack": 30,
+   "type": 0,
+   "physical_defense": 30,
+   "magical_defense": 30,
+   "base_card_points": 8,
+   "price_tier": 13,
+   "category_6": 1,
+   "category_7": 1
+  },
+  {
+   "id": 230,
+   "name": "3 Piranhas",
+   "name_reference": 175,
+   "attack": 45,
+   "type": 0,
+   "physical_defense": 45,
+   "magical_defense": 45,
+   "base_card_points": 12,
+   "price_tier": 13,
+   "category_6": 1,
+   "category_7": 1
+  },
+  {
+   "id": 231,
+   "name": "Ochu",
+   "name_reference": 79,
+   "attack": 44,
+   "type": 0,
+   "physical_defense": 40,
+   "magical_defense": 30,
+   "base_card_points": 10,
+   "price_tier": 13,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 232,
+   "name": "Great Malboro",
+   "name_reference": 223,
+   "attack": 65,
+   "type": 1,
+   "physical_defense": 35,
+   "magical_defense": 67,
+   "base_card_points": 15,
+   "price_tier": 16,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 233,
+   "name": "Malboro Menace",
+   "name_reference": 239,
+   "attack": 77,
+   "type": 1,
+   "physical_defense": 35,
+   "magical_defense": 55,
+   "base_card_points": 15,
+   "price_tier": 16,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 234,
+   "name": "Magic Urn",
+   "name_reference": 159,
+   "attack": 5,
+   "type": 1,
+   "physical_defense": 50,
+   "magical_defense": 100,
+   "base_card_points": 14,
+   "price_tier": 15,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 235,
+   "name": "Iron Giant",
+   "name_reference": 175,
+   "attack": 60,
+   "type": 0,
+   "physical_defense": 55,
+   "magical_defense": 30,
+   "base_card_points": 13,
+   "price_tier": 15,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 236,
+   "name": "Behemoth King",
+   "name_reference": 223,
+   "attack": 79,
+   "type": 0,
+   "physical_defense": 59,
+   "magical_defense": 64,
+   "base_card_points": 18,
+   "price_tier": 17,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 237,
+   "name": "Coeurl",
+   "name_reference": 111,
+   "attack": 43,
+   "type": 1,
+   "physical_defense": 54,
+   "magical_defense": 68,
+   "base_card_points": 15,
+   "price_tier": 16,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 238,
+   "name": "Zu",
+   "name_reference": 47,
+   "attack": 45,
+   "type": 0,
+   "physical_defense": 35,
+   "magical_defense": 35,
+   "base_card_points": 10,
+   "price_tier": 13,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 239,
+   "name": "Dark Flan",
+   "name_reference": 159,
+   "attack": 20,
+   "type": 1,
+   "physical_defense": 79,
+   "magical_defense": 89,
+   "base_card_points": 16,
+   "price_tier": 16,
+   "category_6": 1,
+   "category_7": 1
+  },
+  {
+   "id": 240,
+   "name": "Greater Sphere",
+   "name_reference": 239,
+   "attack": 35,
+   "type": 1,
+   "physical_defense": 45,
+   "magical_defense": 65,
+   "base_card_points": 13,
+   "price_tier": 15,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 241,
+   "name": "Demonolith",
+   "name_reference": 175,
+   "attack": 30,
+   "type": 1,
+   "physical_defense": 55,
+   "magical_defense": 87,
+   "base_card_points": 16,
+   "price_tier": 16,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 242,
+   "name": "Chimera",
+   "name_reference": 127,
+   "attack": 49,
+   "type": 0,
+   "physical_defense": 40,
+   "magical_defense": 40,
+   "base_card_points": 11,
+   "price_tier": 14,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 243,
+   "name": "One-Eye",
+   "name_reference": 127,
+   "attack": 64,
+   "type": 1,
+   "physical_defense": 35,
+   "magical_defense": 70,
+   "base_card_points": 15,
+   "price_tier": 16,
+   "category_6": 1,
+   "category_7": 1
+  },
+  {
+   "id": 244,
+   "name": "Defender Z",
+   "name_reference": 175,
+   "attack": 38,
+   "type": 0,
+   "physical_defense": 66,
+   "magical_defense": 66,
+   "base_card_points": 15,
+   "price_tier": 16,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 245,
+   "name": "Dingo",
+   "name_reference": 95,
+   "attack": 20,
+   "type": 0,
+   "physical_defense": 15,
+   "magical_defense": 10,
+   "base_card_points": 4,
+   "price_tier": 13,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 246,
+   "name": "YKT-63",
+   "name_reference": 111,
+   "attack": 45,
+   "type": 0,
+   "physical_defense": 25,
+   "magical_defense": 62,
+   "base_card_points": 12,
+   "price_tier": 14,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 247,
+   "name": "Ogre",
+   "name_reference": 79,
+   "attack": 66,
+   "type": 0,
+   "physical_defense": 63,
+   "magical_defense": 25,
+   "base_card_points": 14,
+   "price_tier": 15,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 248,
+   "name": "Grendel",
+   "name_reference": 127,
+   "attack": 65,
+   "type": 0,
+   "physical_defense": 60,
+   "magical_defense": 54,
+   "base_card_points": 16,
+   "price_tier": 16,
+   "category_6": 2,
+   "category_7": 1
+  },
+  {
+   "id": 249,
+   "name": "Al Bhed Primer",
+   "name_reference": 239,
+   "attack": 30,
+   "type": 3,
+   "physical_defense": 90,
+   "magical_defense": 90,
+   "base_card_points": 29,
+   "price_tier": 24,
+   "category_6": 0,
+   "category_7": 8
+  }
+ ],
+ "price_tiers": [
+  0,
+  25,
+  50,
+  100,
+  250,
+  500,
+  750,
+  1000,
+  1500,
+  2500,
+  5000,
+  10000,
+  2500,
+  100,
+  250,
+  500,
+  750,
+  1000,
+  2000,
+  5000,
+  7500,
+  10000,
+  12500,
+  15000,
+  17500
+ ],
+ "packs": [
+  {
+   "id": 0,
+   "name": "Pauper's Pack",
+   "name_reference": 223,
+   "price": 0,
+   "category": 2,
+   "card_count": 5,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 0,
+     "category_6": 1,
+     "category_7": 0,
+     "threshold": 254
+    },
+    {
+     "price_tier": 23,
+     "category_6": 15,
+     "category_7": 0,
+     "threshold": 255
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "name": "Beginner's Pack",
+   "name_reference": 255,
+   "price": 1000,
+   "category": 1,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 1,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 100
+    },
+    {
+     "price_tier": 2,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 200
+    },
+    {
+     "price_tier": 3,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 250
+    },
+    {
+     "price_tier": 5,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "name": "Standard Pack",
+   "name_reference": 223,
+   "price": 1500,
+   "category": 1,
+   "card_count": 5,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 3,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 101
+    },
+    {
+     "price_tier": 4,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 240
+    },
+    {
+     "price_tier": 7,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 245
+    },
+    {
+     "price_tier": 6,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "name": "Collector's Pack",
+   "name_reference": 271,
+   "price": 9000,
+   "category": 1,
+   "card_count": 5,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 4,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 75
+    },
+    {
+     "price_tier": 5,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 175
+    },
+    {
+     "price_tier": 6,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 250
+    },
+    {
+     "price_tier": 9,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "Hero's Pack",
+   "name_reference": 191,
+   "price": 30000,
+   "category": 1,
+   "card_count": 3,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 7,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 90
+    },
+    {
+     "price_tier": 8,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 180
+    },
+    {
+     "price_tier": 9,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 230
+    },
+    {
+     "price_tier": 10,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "rank_1 Pack",
+   "name_reference": 191,
+   "price": 100000,
+   "category": 3,
+   "card_count": 3,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 9,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 10,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 5
+    },
+    {
+     "price_tier": 11,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 105
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "name": "Starter's Pack",
+   "name_reference": 239,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 1,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "name": "COM's Lv. 1 Pack",
+   "name_reference": 271,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 1,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 254
+    },
+    {
+     "price_tier": 4,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "name": "COM's Lv. 2 Pack",
+   "name_reference": 271,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 2,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 248
+    },
+    {
+     "price_tier": 3,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 253
+    },
+    {
+     "price_tier": 4,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "COM's Lv. 3 Pack",
+   "name_reference": 271,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 3,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 251
+    },
+    {
+     "price_tier": 4,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "name": "Pilot Erin",
+   "name_reference": 175,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 12,
+     "category_6": 4,
+     "category_7": 0,
+     "threshold": 255
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "name": "Vivi",
+   "name_reference": 79,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 7,
+     "category_6": 2,
+     "category_7": 0,
+     "threshold": 50
+    },
+    {
+     "price_tier": 255,
+     "category_6": 22,
+     "category_7": 0,
+     "threshold": 100
+    },
+    {
+     "price_tier": 9,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 199
+    },
+    {
+     "price_tier": 255,
+     "category_6": 16,
+     "category_7": 0,
+     "threshold": 200
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 127,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "name": "Regent Cid",
+   "name_reference": 175,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 9,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 30
+    },
+    {
+     "price_tier": 10,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 80
+    },
+    {
+     "price_tier": 255,
+     "category_6": 12,
+     "category_7": 4,
+     "threshold": 198
+    },
+    {
+     "price_tier": 255,
+     "category_6": 27,
+     "category_7": 0,
+     "threshold": 200
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 112,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "name": "Trade King Gohn",
+   "name_reference": 255,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 7,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 50
+    },
+    {
+     "price_tier": 8,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 100
+    },
+    {
+     "price_tier": 255,
+     "category_6": 3,
+     "category_7": 3,
+     "threshold": 200
+    },
+    {
+     "price_tier": 8,
+     "category_6": 0,
+     "category_7": 3,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "name": "Stiltzkin",
+   "name_reference": 159,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 3,
+     "category_7": 5,
+     "threshold": 150
+    },
+    {
+     "price_tier": 5,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 220
+    },
+    {
+     "price_tier": 6,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 254
+    },
+    {
+     "price_tier": 255,
+     "category_6": 25,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "name": "Garnet",
+   "name_reference": 111,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 2,
+     "category_7": 2,
+     "threshold": 100
+    },
+    {
+     "price_tier": 255,
+     "category_6": 29,
+     "category_7": 0,
+     "threshold": 158
+    },
+    {
+     "price_tier": 8,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 168
+    },
+    {
+     "price_tier": 255,
+     "category_6": 11,
+     "category_7": 0,
+     "threshold": 170
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 107,
+     "threshold": 225,
+     "unused": 0
+    },
+    {
+     "model": 111,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "name": "Amarant",
+   "name_reference": 127,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 4,
+     "category_6": 3,
+     "category_7": 0,
+     "threshold": 120
+    },
+    {
+     "price_tier": 5,
+     "category_6": 3,
+     "category_7": 0,
+     "threshold": 170
+    },
+    {
+     "price_tier": 6,
+     "category_6": 3,
+     "category_7": 0,
+     "threshold": 200
+    },
+    {
+     "price_tier": 255,
+     "category_6": 21,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "name": "Steiner",
+   "name_reference": 127,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 2,
+     "category_6": 3,
+     "category_7": 0,
+     "threshold": 70
+    },
+    {
+     "price_tier": 3,
+     "category_6": 3,
+     "category_7": 0,
+     "threshold": 170
+    },
+    {
+     "price_tier": 255,
+     "category_6": 28,
+     "category_7": 0,
+     "threshold": 220
+    },
+    {
+     "price_tier": 255,
+     "category_6": 23,
+     "category_7": 0,
+     "threshold": 221
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 108,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "name": "Zidane",
+   "name_reference": 111,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 7,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 140
+    },
+    {
+     "price_tier": 255,
+     "category_6": 6,
+     "category_7": 0,
+     "threshold": 200
+    },
+    {
+     "price_tier": 8,
+     "category_6": 9,
+     "category_7": 0,
+     "threshold": 252
+    },
+    {
+     "price_tier": 255,
+     "category_6": 10,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "name": "Kuja",
+   "name_reference": 79,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 7,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 130
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 7,
+     "threshold": 170
+    },
+    {
+     "price_tier": 255,
+     "category_6": 18,
+     "category_7": 0,
+     "threshold": 254
+    },
+    {
+     "price_tier": 255,
+     "category_6": 17,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "name": "Premium Pack",
+   "name_reference": 207,
+   "price": 14000,
+   "category": 1,
+   "card_count": 3,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 6,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 175
+    },
+    {
+     "price_tier": 7,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 230
+    },
+    {
+     "price_tier": 9,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "name": "Summoner's Pack",
+   "name_reference": 255,
+   "price": 6500,
+   "category": 9,
+   "card_count": 3,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 2,
+     "category_7": 2,
+     "threshold": 255
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "name": "Warrior's Pack",
+   "name_reference": 239,
+   "price": 3000,
+   "category": 7,
+   "card_count": 3,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 3,
+     "category_6": 0,
+     "category_7": 3,
+     "threshold": 60
+    },
+    {
+     "price_tier": 4,
+     "category_6": 0,
+     "category_7": 3,
+     "threshold": 120
+    },
+    {
+     "price_tier": 5,
+     "category_6": 0,
+     "category_7": 3,
+     "threshold": 200
+    },
+    {
+     "price_tier": 255,
+     "category_6": 3,
+     "category_7": 3,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "name": "Voyager's Pack",
+   "name_reference": 239,
+   "price": 4500,
+   "category": 8,
+   "card_count": 3,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 12,
+     "category_7": 4,
+     "threshold": 255
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "name": "FFIX Celebrity Pack",
+   "name_reference": 319,
+   "price": 20000,
+   "category": 1,
+   "card_count": 3,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 6,
+     "category_6": 0,
+     "category_7": 7,
+     "threshold": 100
+    },
+    {
+     "price_tier": 7,
+     "category_6": 0,
+     "category_7": 7,
+     "threshold": 200
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 7,
+     "threshold": 255
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "name": "Natasha66/0",
+   "name_reference": 191,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 1,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 254
+    },
+    {
+     "price_tier": 7,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "name": "Mick83/20",
+   "name_reference": 159,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 1,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 170
+    },
+    {
+     "price_tier": 2,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 150
+    },
+    {
+     "price_tier": 3,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 151
+    },
+    {
+     "price_tier": 7,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 152
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 33,
+     "threshold": 200,
+     "unused": 0
+    },
+    {
+     "model": 13,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "name": "Quina97/40",
+   "name_reference": 175,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 2,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 50
+    },
+    {
+     "price_tier": 3,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 80
+    },
+    {
+     "price_tier": 255,
+     "category_6": 20,
+     "category_7": 0,
+     "threshold": 150
+    },
+    {
+     "price_tier": 1,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 160
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 91,
+     "threshold": 245,
+     "unused": 0
+    },
+    {
+     "model": 114,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "name": "Bogart105/40",
+   "name_reference": 207,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 1,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 100
+    },
+    {
+     "price_tier": 2,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 190
+    },
+    {
+     "price_tier": 3,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 250
+    },
+    {
+     "price_tier": 7,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "name": "Agnes140/100",
+   "name_reference": 207,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 1,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 30
+    },
+    {
+     "price_tier": 2,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 160
+    },
+    {
+     "price_tier": 3,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 250
+    },
+    {
+     "price_tier": 7,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "name": "Brahne254/150",
+   "name_reference": 223,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 2,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 110
+    },
+    {
+     "price_tier": 3,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 120
+    },
+    {
+     "price_tier": 4,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 139
+    },
+    {
+     "price_tier": 11,
+     "category_6": 13,
+     "category_7": 0,
+     "threshold": 140
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 121,
+     "threshold": 175,
+     "unused": 0
+    },
+    {
+     "model": 122,
+     "threshold": 210,
+     "unused": 0
+    },
+    {
+     "model": 100,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "name": "Mina276/200",
+   "name_reference": 191,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 2,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 100
+    },
+    {
+     "price_tier": 3,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 190
+    },
+    {
+     "price_tier": 4,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 250
+    },
+    {
+     "price_tier": 7,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "name": "Bill334/250",
+   "name_reference": 191,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 2,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 30
+    },
+    {
+     "price_tier": 3,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 160
+    },
+    {
+     "price_tier": 4,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 250
+    },
+    {
+     "price_tier": 7,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "name": "Akbar360/300",
+   "name_reference": 207,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 3,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 130
+    },
+    {
+     "price_tier": 4,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 220
+    },
+    {
+     "price_tier": 5,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 250
+    },
+    {
+     "price_tier": 7,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "name": "Jill509/400",
+   "name_reference": 191,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 3,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 30
+    },
+    {
+     "price_tier": 4,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 160
+    },
+    {
+     "price_tier": 5,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 250
+    },
+    {
+     "price_tier": 8,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "name": "Fabius612/500",
+   "name_reference": 223,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 4,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 110
+    },
+    {
+     "price_tier": 5,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 170
+    },
+    {
+     "price_tier": 6,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 195
+    },
+    {
+     "price_tier": 8,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 197
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 11,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "name": "Broidy727/620",
+   "name_reference": 223,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 5,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 130
+    },
+    {
+     "price_tier": 6,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 220
+    },
+    {
+     "price_tier": 7,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 253
+    },
+    {
+     "price_tier": 11,
+     "category_6": 8,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "name": "Lani750/690",
+   "name_reference": 191,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 5,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 80
+    },
+    {
+     "price_tier": 6,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 150
+    },
+    {
+     "price_tier": 7,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 195
+    },
+    {
+     "price_tier": 8,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 200
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 123,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "name": "Eiko873/760",
+   "name_reference": 191,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 2,
+     "category_7": 2,
+     "threshold": 70
+    },
+    {
+     "price_tier": 5,
+     "category_6": 3,
+     "category_7": 5,
+     "threshold": 190
+    },
+    {
+     "price_tier": 255,
+     "category_6": 24,
+     "category_7": 0,
+     "threshold": 244
+    },
+    {
+     "price_tier": 255,
+     "category_6": 26,
+     "category_7": 0,
+     "threshold": 245
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 118,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "name": "Pierre1016/900",
+   "name_reference": 239,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 6,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 90
+    },
+    {
+     "price_tier": 7,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 150
+    },
+    {
+     "price_tier": 8,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 195
+    },
+    {
+     "price_tier": 9,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 200
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 103,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "name": "Freya1128/100",
+   "name_reference": 223,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 7,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 100
+    },
+    {
+     "price_tier": 8,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 130
+    },
+    {
+     "price_tier": 9,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 150
+    },
+    {
+     "price_tier": 255,
+     "category_6": 19,
+     "category_7": 0,
+     "threshold": 205
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 56,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "name": "Carol1210/1100",
+   "name_reference": 239,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 7,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 150
+    },
+    {
+     "price_tier": 8,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 200
+    },
+    {
+     "price_tier": 9,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "name": "Artania1789/1600",
+   "name_reference": 271,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 7,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 40
+    },
+    {
+     "price_tier": 7,
+     "category_6": 0,
+     "category_7": 6,
+     "threshold": 100
+    },
+    {
+     "price_tier": 8,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 254
+    },
+    {
+     "price_tier": 255,
+     "category_6": 13,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "name": "Beatrix1870/1700",
+   "name_reference": 271,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 7,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 40
+    },
+    {
+     "price_tier": 8,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 130
+    },
+    {
+     "price_tier": 255,
+     "category_6": 7,
+     "category_7": 0,
+     "threshold": 250
+    },
+    {
+     "price_tier": 10,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "name": "Tot1930/1800",
+   "name_reference": 207,
+   "price": 0,
+   "category": 0,
+   "card_count": 10,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 8,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 90
+    },
+    {
+     "price_tier": 9,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 230
+    },
+    {
+     "price_tier": 10,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 253
+    },
+    {
+     "price_tier": 255,
+     "category_6": 14,
+     "category_7": 0,
+     "threshold": 255
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "name": "Prize Center Card 1",
+   "name_reference": 319,
+   "price": 50,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 198,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "name": "Prize Center Card 2",
+   "name_reference": 319,
+   "price": 60,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 197,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "name": "Prize Center Card 3",
+   "name_reference": 319,
+   "price": 70,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 167,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "name": "Prize Center Card 4",
+   "name_reference": 319,
+   "price": 85,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 172,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "name": "Prize Center Card 5",
+   "name_reference": 319,
+   "price": 100,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 202,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "name": "Prize Center Card 6",
+   "name_reference": 319,
+   "price": 125,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 175,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "name": "Prize Center Card 7",
+   "name_reference": 319,
+   "price": 150,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 199,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "name": "Prize Center Card 8",
+   "name_reference": 319,
+   "price": 175,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 188,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "name": "Prize Center Card 9",
+   "name_reference": 319,
+   "price": 175,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 187,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "name": "Prize Center Card 10",
+   "name_reference": 335,
+   "price": 200,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 186,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "name": "Prize Center Card 11",
+   "name_reference": 335,
+   "price": 230,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 182,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "name": "Prize Center Card 12",
+   "name_reference": 335,
+   "price": 250,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 133,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "name": "Prize Center Card 13",
+   "name_reference": 335,
+   "price": 300,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 128,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "name": "Prize Center Card 14",
+   "name_reference": 335,
+   "price": 300,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 151,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "name": "Prize Center Card 15",
+   "name_reference": 335,
+   "price": 350,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 154,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "name": "Prize Center Card 16",
+   "name_reference": 335,
+   "price": 375,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 159,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "name": "Prize Center Card 17",
+   "name_reference": 335,
+   "price": 425,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 193,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "name": "Prize Center Card 18",
+   "name_reference": 335,
+   "price": 500,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 150,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "name": "Prize Center Card 19",
+   "name_reference": 335,
+   "price": 525,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 97,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "name": "Prize Center Card 20",
+   "name_reference": 335,
+   "price": 525,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 99,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "name": "Prize Center Card 21",
+   "name_reference": 335,
+   "price": 550,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 120,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "name": "Prize Center Card 22",
+   "name_reference": 335,
+   "price": 625,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 222,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "name": "Prize Center Card 23",
+   "name_reference": 335,
+   "price": 700,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 160,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "name": "Prize Center Card 24",
+   "name_reference": 335,
+   "price": 775,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 161,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "name": "Prize Center Card 25",
+   "name_reference": 335,
+   "price": 800,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 185,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "name": "Prize Center Card 26",
+   "name_reference": 335,
+   "price": 1250,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 211,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 71,
+   "name": "Prize Center Card 27",
+   "name_reference": 335,
+   "price": 2000,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 54,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "name": "Prize Center Card 28",
+   "name_reference": 335,
+   "price": 3000,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 215,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "name": "Prize Center Card 29",
+   "name_reference": 335,
+   "price": 5000,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 149,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 74,
+   "name": "Prize Center Card 30",
+   "name_reference": 335,
+   "price": 10000,
+   "category": 5,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 0,
+   "range_end": 150,
+   "explicit_models": [
+    {
+     "model": 152,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 75,
+   "name": "Chance Card",
+   "name_reference": 191,
+   "price": 0,
+   "category": 0,
+   "card_count": 1,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 255
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 216,
+   "range_end": 221,
+   "explicit_models": [
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "name": "FFX Blitzball Edition",
+   "name_reference": 351,
+   "price": 300000,
+   "category": 4,
+   "card_count": 3,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 255,
+     "category_6": 1,
+     "category_7": 0,
+     "threshold": 254
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 150,
+   "range_end": 250,
+   "explicit_models": [
+    {
+     "model": 153,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  },
+  {
+   "id": 77,
+   "name": "FFX Monster Edition",
+   "name_reference": 319,
+   "price": 300000,
+   "category": 4,
+   "card_count": 4,
+   "unused_0A": "0000",
+   "generation_bins": [
+    {
+     "price_tier": 13,
+     "category_6": 2,
+     "category_7": 1,
+     "threshold": 104
+    },
+    {
+     "price_tier": 14,
+     "category_6": 0,
+     "category_7": 1,
+     "threshold": 199
+    },
+    {
+     "price_tier": 15,
+     "category_6": 0,
+     "category_7": 1,
+     "threshold": 251
+    },
+    {
+     "price_tier": 255,
+     "category_6": 0,
+     "category_7": 0,
+     "threshold": 0
+    }
+   ],
+   "range_first": 150,
+   "range_end": 250,
+   "explicit_models": [
+    {
+     "model": 201,
+     "threshold": 255,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    },
+    {
+     "model": 9999,
+     "threshold": 0,
+     "unused": 0
+    }
+   ]
+  }
+ ]
+}
